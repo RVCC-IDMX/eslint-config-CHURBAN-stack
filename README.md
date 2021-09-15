@@ -17,4 +17,3 @@ The reason why "no-trailing-spaces" rule is important because while a user is wo
 This rule is important since it gets rid of unneeded trailing whitespaces found within your work/files that you create. Meaning this rule is helpful since it gets rid of unneeded tabs/spaces and other Unicode found at the end of your lines in your files.
 
 Website used for Eslint Rule[elisnt](https://eslint.org/docs/rules/no-trailing-spaces\)
-\
