@@ -1,22 +1,22 @@
 {
-  "name": "eslint-config-churban-stack",
+  "name": "tz-converter-churban-stack",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "tz.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RVCC-IDMX/eslint-config-CHURBAN-stack.git"
+    "url": "git+https://github.com/RVCC-IDMX/tz-converter-CHURBAN-stack-CHURBAN-stack.git"
   },
   "keywords": [],
-  "author": "Christopher House <Chur6798@Stu.raritanval.edu> (https://github.com/CHURBAN-stack)",
+  "author": "Christopher Hurban <Chur6798@Stu.raritanval.edu> (https://github.com/CHURBAN-stack)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RVCC-IDMX/eslint-config-CHURBAN-stack/issues"
+    "url": "https://github.com/RVCC-IDMX/tz-converter-CHURBAN-stack/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/eslint-config-CHURBAN-stack#readme",
+  "homepage": "https://github.com/RVCC-IDMX/tz-converter-CHURBAN-stack#readme",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
